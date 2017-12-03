@@ -1,0 +1,3 @@
+[submodule "Densenet-Tensorflow"]
+	path = Densenet-Tensorflow
+	url = https://github.com/taki0112/Densenet-Tensorflow.git
