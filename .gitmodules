@@ -1,0 +1,3 @@
+[submodule "densenet-tensorflow"]
+	path = densenet-tensorflow
+	url = https://github.com/YixuanLi/densenet-tensorflow.git
